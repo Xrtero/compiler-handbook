@@ -1,0 +1,8 @@
+[book]
+title="compiler-handbook"
+authors = ["xrtero"]
+language = "en"
+multilingual = false
+src = "src"
+
+[preprocessor.katex]
